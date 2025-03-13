@@ -1,6 +1,6 @@
 # Reproducible health data science project
 
-## Setup
+## Setup the project
 
 To setup this project 
 
