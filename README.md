@@ -1,4 +1,4 @@
-# rhds
+# Reproducible health data science project
 
 ## Setup
 
